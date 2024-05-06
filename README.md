@@ -1,5 +1,5 @@
-Add images (name:tag) to `images.list`
+1. Add images list (name:tag) to file: `images.list`
 
-run `./trivy.sh images.list`
+2. Run: `./trivy.sh images.list`
 
-check `vulnerabilities.report.txt` for results
+3. Check file `vulnerabilities.report.txt` for results
