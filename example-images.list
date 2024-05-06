@@ -1,4 +1,4 @@
-registry.sirius.online/cheops-edu/cyrus/cyrus:v3.11
-registry.sirius.online/cheops-edu/executioner/judge:v2.12
-registry.sirius.online/cheops-edu/executioner/language-python3:v2.12
-registry.sirius.online/infra/kube-state-metrics:v2.9.2
+cyrus:v3.11
+judge:v2.12
+language-python3:v2.12
+kube-state-metrics:v2.9.2
